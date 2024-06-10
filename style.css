@@ -40,6 +40,14 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-family:Verdana;
+  font-size: 30px;
+  font-weight: 100;
+  color:#ffffff;
+  margin: 0;
+  text-align: center;
+}
 .header_wrap {
   width: 100vw;
   display: flex;
