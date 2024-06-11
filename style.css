@@ -102,7 +102,7 @@ figcaption {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
+  flex-direction:column
 }
 
 .main h1 {
@@ -167,6 +167,7 @@ table td:nth-child(2) {
   }
   .background {
     padding: 0;
+    background-color: #ffffff;
   }
   figcaption {
     font-family: "Pretendard", sans-serif;
