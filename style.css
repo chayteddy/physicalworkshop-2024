@@ -12,7 +12,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #b3ccff;
+  background: #3acfa5;
   font-family: "Pretendard", sans-serif;
   word-break: keep-all;
 }
@@ -26,7 +26,7 @@ h1 {
   font-family: "times", serif;
   font-size: 40px;
   font-weight: 170;
-  color: #e75599;
+  color: #e15d5d;
   margin: 0;
   text-align: center;
 }
@@ -91,7 +91,7 @@ figcaption {
   width: 100%;
   height: 100vh;
   position: absolute;
-  background-color:#e75599;
+  background-color:#e15d5d;
 }
 
 .background img { 
