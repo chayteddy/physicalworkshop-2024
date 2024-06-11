@@ -12,7 +12,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #96b9ff;
+  background: #b3ccff;
   font-family: "Pretendard", sans-serif;
   word-break: keep-all;
 }
@@ -26,7 +26,7 @@ h1 {
   font-family: "times", serif;
   font-size: 40px;
   font-weight: 170;
-  color: #f4117b;
+  color: #e75599;
   margin: 0;
   text-align: center;
 }
