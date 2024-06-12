@@ -9,6 +9,10 @@ html {
   font-size: 14px;
 }
 
+head.menu-wrapper {
+  background-color: white;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -63,7 +67,7 @@ h3 {
 
 
 menu {
-  background-color: white;
+  color: black;
 }
 
 title {
