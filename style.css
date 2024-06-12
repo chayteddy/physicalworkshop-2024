@@ -61,6 +61,12 @@ h3 {
   z-index: 999;
 }
 
+
+menu {
+  background-color: white;
+}
+
+
 .header_wrap li {
   display: inline-block;
   font-size: 1.2rem;
