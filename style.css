@@ -67,8 +67,9 @@ menu {
   color: black;
 }
 
-title {
+.title {
   line-height: 0.5; 
+  text-align:left
 }
 
 
