@@ -67,11 +67,10 @@ menu {
   color: black;
 }
 
-.title {
-  line-height: 0.5; 
-  text-align:left
+.main h2 {
+  text-align: left;
+  line-height:0.5;
 }
-
 
 .header_wrap li {
   display: inline-block;
