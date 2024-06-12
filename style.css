@@ -66,6 +66,10 @@ menu {
   background-color: white;
 }
 
+title {
+  line-height: 0.5; 
+}
+
 
 .header_wrap li {
   display: inline-block;
