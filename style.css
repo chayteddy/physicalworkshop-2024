@@ -73,7 +73,9 @@ h3 {
 .main h2 {
   text-align:left;
   line-height:normal;
+  margin-top: 0; /* 텍스트를 위로 올립니다. */
 }
+
 
 .header_wrap li {
   display: inline-block;
