@@ -62,6 +62,9 @@ h3 {
   z-index: 999;
 }
 
+.background {
+  background-color:white
+}
 
 menu {
   color: black;
