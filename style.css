@@ -51,6 +51,12 @@ h3 {
   text-align: center;
 }
 
+
+p b {
+  font-size: medium; /* 원하는 크기로 조정하세요 */
+}
+
+
 .header_wrap {
   width: 100vw;
   display: flex;
