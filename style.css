@@ -19,6 +19,17 @@ html {
   height: auto; /* 이미지 높이 자동 조정 */
   height: 300px; /* 모든 이미지의 높이를 동일하게 조정할 수 있습니다. */
 }
+
+.image-container2 {
+  display: flex; /* 이미지들을 가로로 나란히 정렬 */
+}
+
+.image-container2 img {
+  margin-right: 10px; /* 이미지 사이의 간격 조정 */
+  max-width: 50%; /* 이미지가 부모 요소의 너비를 넘어가지 않도록 설정 */
+  height: 100px; /* 모든 이미지의 높이를 동일하게 조정할 수 있습니다. */
+}
+
 body {
   margin: 0;
   padding: 0;
